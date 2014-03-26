@@ -1,12 +1,11 @@
-<h1>On Deck</h1>
+#On Deck
 
-<hr>
+--------
 
-<h2>6&#39;s</h2>
+##6's
 
-<hr>
-
-<p>Dab
+-------
+Dab
 Hofbrau original
 Spaten optimator
 Weihenstephaner hefe
@@ -15,30 +14,27 @@ Moose drool
 Boulevard Unfiltered Wheat
 Left Hand Milk Stout
 Domaine Du Page
-Crabbie&#39;s Alcoholic Ginger Beer
+Crabbie's Alcoholic Ginger Beer
 Ale Syndicate Municipal IPA
 Flying Dog Doggie Style
 Grimbergen Blonde
 Lakefront Big Easy
-Tyranena Rocky&#39;s Revenge
-Victory Swing Session</p>
+Tyranena Rocky's Revenge
+Victory Swing Session
 
-<h2>Bombers</h2>
+##Bombers
 
-<hr>
+-------
+La Trappe Dubbel
+La Trappe Quadrupel Oak Aged
 
-<p>La Trappe Dubbel
-La Trappe Quadrupel Oak Aged</p>
+#Retired
 
-<h1>Retired</h1>
+-------
 
-<hr>
-
-<h2>6&#39;s</h2>
-
-<hr>
-
-<p>Tyranena sheep shagger
+##6's
+-------
+Tyranena sheep shagger
 Bells smitten
 Left hand 400 pound monkey
 Ska euphoria
@@ -47,4 +43,4 @@ Chain breaker
 Dogfish namaste
 Spiteful IPA
 Firestone velvet Merlin
-Greenbush anger</p>
+Greenbush anger
